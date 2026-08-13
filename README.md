@@ -28,3 +28,6 @@ La aplicación se encuentra disponible públicamente mediante Streamlit Communit
 
 👉 [Abrir Optimización Logística](https://optimizacion-logistica-cr.streamlit.app/)
 
+## Desarrollo
+
+Este proyecto fue desarrollado como parte de un trabajo académico de Cálculo Diferencial e Integral. Se utilizaron herramientas de inteligencia artificial como apoyo durante el desarrollo de la interfaz, la implementación de funcionalidades y la depuración del código.
