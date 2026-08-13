@@ -1,0 +1,29 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*$py.class
+analisis_resultados.py
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Variables de entorno y secretos
+.env
+.env.*
+*.env
+
+# Secretos de Streamlit
+.streamlit/secrets.toml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDE / editores
+.vscode/
+.idea/
+
+# Logs
+*.log
